@@ -1,4 +1,4 @@
----# 🧿 **Kairo Zénith — Sanctuaire Technique de Jebril**
+--- 🧿 **Kairo Zénith — Sanctuaire Technique de Jebril**
 
 Ce dépôt est mon **sanctuaire numérique total**.  
 Chaque dossier est un **module rituel**, chaque ligne de code une **frappe d’intention**.  
